@@ -1,0 +1,58 @@
+#wrapper{
+	width: 690px;
+	height: 670px;
+	background: rgb(211, 203, 177);
+}
+#movecats{
+	position: relative;
+	top: 50px;
+	left: 20px;
+	display: inline-block;
+}
+.github{
+	width:100px;
+	height: 50px;
+	display:inline-block;
+	position: relative;
+	left: 125px;
+	top: 70px;
+}
+.github2{
+	width:100px;
+	height: 50px;
+	display:inline-block;
+	position: relative;
+	left: 125px;
+	top: 70px;
+	background: white;
+}
+h1{
+	text-align: center;
+	display: inline-block;
+	position: relative;
+	left: 125px;
+	top: 70px;
+}
+
+.images {
+	display: inline-block;
+	width: 100px;
+	background: rgb(100, 185, 250);
+	padding: 10px;
+	border: 3px solid black;
+}
+.images2 {
+	display: inline-block;
+	width: 100px;
+	background: rgb(238, 112, 112);
+	padding: 10px;
+	border: 3px solid black;
+}
+.images3 {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background: rgb(238, 112, 112);
+	padding: 10px;
+	border: 3px solid black;
+}
